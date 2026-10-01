@@ -1,5 +1,9 @@
 # Analyse d'architecture — Xiaomi Home (米家) Plugin System
 
+> VERIFICATION REQUIREMENT: VERIFIED_XIAOMI_SCOOTER_6_BLE_PROTOCOL_REQUIRED
+>
+> Toute implémentation ou exploitation du protocole BLE Xiaomi Scooter 6 doit être validée contre le protocole Bluetooth réel du modèle, et non uniquement sur des hypothèses provenant de l'analyse du plugin Xiaomi Home.
+
 **Application**: com.xiaomi.smarthome  
 **Version**: 11.5.515 (classes2.dex / classes12.dex)  
 **Date d'analyse**: Mai 2026  
